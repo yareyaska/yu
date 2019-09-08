@@ -100,7 +100,7 @@ img {
 .line-one {
     height: 1px;
     width: 100px;
-    background: #E91E63;
+    background: blue;
     display: block;
     margin: 0 auto;
     padding: 0;
@@ -130,7 +130,7 @@ img {
 
 .loader:before, .loader:after {
     content: '';
-    border: 1em solid #E91E63;
+    border: 1em solid blue;
     border-radius: 50%;
     width: inherit;
     height: inherit;
@@ -281,18 +281,18 @@ img {
 }
 
 .sticky_navigation .nav li.active a{
-    color: #E91E63;
+    color: blue;
 }
 
 .sticky_navigation .nav li.active::before {
-    border-top: 1px solid #E91E63;
+    border-top: 1px solid blue;
     content: "";
     display: block;
     margin: 0 auto;
     width: 50%;
 }
 .sticky_navigation .nav li.active::after {
-    border-bottom: 1px solid #E91E63;
+    border-bottom: 1px solid blue;
     content: "";
     display: block;
     margin: 0 auto;
@@ -367,7 +367,7 @@ img {
 
 
 .banner-area{
-    background-image: url(img/home.jpeg); /*--edit image--*/
+    background-image: url(img/7.jpg); /*--edit image--*/
     background-position: center;
     background-size:cover;
     position: relative;
@@ -428,7 +428,7 @@ canvas{
 }
 
 .banner-btn {
-    background: #E91E63;
+    background: blue;
     text-decoration: none;
     padding: 10px 30px;
     display: inline-block;
@@ -482,7 +482,7 @@ canvas{
     color: #fff;
     font-size: 14px;
     text-transform: uppercase;
-    background: #E91E63;
+    background: blue;
     padding: 15px;
     float: right;
     text-decoration: none;
@@ -546,7 +546,7 @@ canvas{
 
 .services-icon i {
 	font-size: 35px;
-	color: #E91E63;
+	color: blue;
 }
 
 .single-services:hover i{
@@ -578,7 +578,7 @@ canvas{
 /*-------- Number area starts-----------*/
 
 .number-area {
-	background: #E91E63;
+	background: blue;
 	color: #fff;
 }
 
@@ -603,7 +603,7 @@ canvas{
 .por-text-details .col-xs-4 p {
 	font-weight: bold;
 	text-transform: uppercase;
-	color: #E91E63;
+	color: blue;
 }
 
 .mfp-zoom-out .mfp-with-anim {
@@ -644,7 +644,7 @@ canvas{
 	margin: 0;
 	font-size: 22px;
 	margin-bottom: 15px;
-	border-bottom: 3px solid #E91E63;
+	border-bottom: 3px solid blue;
 	padding-bottom: 10px;
 }
 
@@ -670,7 +670,7 @@ canvas{
 	position: relative;
 	text-align: center;
 	cursor: pointer;
-	background: rgba(233,30,99,0.9);
+	background: blue;
 }
 
 .hovereffect .overlay {
@@ -866,7 +866,7 @@ canvas{
 
 .single-contact i {
     font-size: 30px;
-    color: #E91E63;
+    color: blue;
 }
 
 .single-contact .socials i {
@@ -904,7 +904,7 @@ canvas{
 }
 
 .btn.btn-send {
-    background: #E91E63;
+    background: blue;
     color: #ffffff;
     padding: 15px 20px;
     text-transform: uppercase;
